@@ -1,4 +1,4 @@
-package com.example.ordermanagementsystemapi;
+package com.example.OrderManagementSystemApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class OrderManagementSystemApiApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(OrderManagementSystemApiApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(OrderManagementSystemApiApplication.class, args);
+	}
 
 }
