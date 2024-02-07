@@ -1,7 +1,7 @@
 package com.example.ordermanagementsystemapi.controller;
 
-import com.example.apiordermanagementsystem.model.Product;
-import com.example.apiordermanagementsystem.service.ProductService;
+import com.example.ordermanagementsystemapi.model.Product;
+import com.example.ordermanagementsystemapi.service.ProductService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -15,6 +15,7 @@ public class ProductController {
     private final ProductService productService;
 
     public ProductController(ProductService productService) {
+
         this.productService = productService;
     }
 

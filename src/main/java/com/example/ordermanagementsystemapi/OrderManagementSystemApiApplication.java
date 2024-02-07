@@ -1,4 +1,4 @@
-package com.example.OrderManagementSystemApi;
+package com.example.ordermanagementsystemapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

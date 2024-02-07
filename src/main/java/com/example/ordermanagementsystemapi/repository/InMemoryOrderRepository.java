@@ -1,7 +1,7 @@
 package com.example.ordermanagementsystemapi.repository;
 
 
-import com.example.apiordermanagementsystem.model.Order;
+import com.example.ordermanagementsystemapi.model.Order;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;

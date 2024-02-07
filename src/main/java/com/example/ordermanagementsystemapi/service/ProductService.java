@@ -1,7 +1,7 @@
 package com.example.ordermanagementsystemapi.service;
 
-import com.example.apiordermanagementsystem.exception.ProductNotFoundException;
-import com.example.apiordermanagementsystem.model.Product;
+import com.example.ordermanagementsystemapi.exception.ProductNotFoundException;
+import com.example.ordermanagementsystemapi.model.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.example.OrderManagementSystemApi;
+package com.example.ordermanagementsystemapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

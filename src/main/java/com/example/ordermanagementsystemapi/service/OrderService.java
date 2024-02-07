@@ -1,9 +1,9 @@
 package com.example.ordermanagementsystemapi.service;
 
-import com.example.apiordermanagementsystem.exception.OrderNotFoundException;
-import com.example.apiordermanagementsystem.model.Order;
-import com.example.apiordermanagementsystem.model.Product;
-import com.example.apiordermanagementsystem.repository.OrderRepository;
+import com.example.ordermanagementsystemapi.exception.OrderNotFoundException;
+import com.example.ordermanagementsystemapi.model.Order;
+import com.example.ordermanagementsystemapi.model.Product;
+import com.example.ordermanagementsystemapi.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
